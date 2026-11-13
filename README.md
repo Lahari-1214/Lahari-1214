@@ -2,7 +2,7 @@
 
 ### 👩‍🏫 Computer Science Lecturer | 💻 Software Developer | 🚀 Lifelong Learner
 
-<img src="C:\Users\kanth\LKN" width="100%" alt="GitHub Profile Banner">
+<img src="./LKN.png" width="100%" alt="Leela Kanthi Profile Banner">
 
 I am a Computer Science graduate and lecturer passionate about teaching, programming, and exploring new technologies.
 
