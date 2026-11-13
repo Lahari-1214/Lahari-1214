@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Leela Kanthi 👋
 
-<!--
-**Lahari-1214/Lahari-1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Science Graduate
+- 💻 Learning Java and Data Structures
+- 🚀 Practicing one LeetCode problem daily
+- 🌱 Exploring AI Engineering
+- 🎯 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Java
+- Python
+- SQL
+- Django
+- Flask
+- Git & GitHub
+
+### Current Goals
+- Master DSA
+- Build practical projects
+- Improve problem-solving skills
+- Contribute to open source
