@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Leela Kanthi!
+<p align="center">
+  <img src="./LKN2.png" width="100%" alt="Leela Kanthi Profile Banner">
+</p>
 
-### 👩‍🏫 Computer Science Lecturer | 💻 Software Developer | 🚀 Lifelong Learner
 
-<img src="./LKN.png" width="100%" alt="Leela Kanthi Profile Banner">
 
 I am a Computer Science graduate and lecturer passionate about teaching, programming, and exploring new technologies.
 
